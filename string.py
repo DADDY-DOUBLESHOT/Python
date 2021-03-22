@@ -1,0 +1,1 @@
+print("My name is %s and age is %d" %("ps",19))
